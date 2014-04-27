@@ -1,0 +1,56 @@
+{"keywords": "design.net", "results": [
+    {
+        "keywords": [
+            {
+                "keyword": "desino de la flor",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_SP",
+        "algorithmMap": {
+            "LNG_FR": "Spanish"
+        },
+        "combinedKeyword": "desino de la flor"
+    },
+    {
+        "keywords": [
+            {
+                "keyword": "Projecto da flor",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_PR",
+        "algorithmMap": {
+            "LNG_FR": "Portugese"
+        },
+        "combinedKeyword": "Projecto da flor"
+    },
+
+    {
+        "keywords": [
+            {
+                "keyword": "blumen design",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_GR",
+        "algorithmMap": {
+            "LNG_FR": "German"
+        },
+        "combinedKeyword": "blumen design"
+    },
+
+    {
+        "keywords": [
+            {
+                "keyword": "conception",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_FR",
+        "algorithmMap": {
+            "LNG_FR": "French"
+        },
+        "combinedKeyword": "conception"
+    }
+], "errors": null, "errorCode": null}

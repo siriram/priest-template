@@ -1,0 +1,61 @@
+{
+    "keywords": "flower.net",
+    "results": [
+        {
+            "keywords": [
+                {
+                    "keyword": "flor",
+                    "isChanged": true
+                }
+            ],
+            "algorithmType": "LNG_SP",
+            "algorithmMap": {
+                "LNG_FR": "Spanish"
+            },
+            "combinedKeyword": "flor"
+        },
+        {
+            "keywords": [
+                {
+                    "keyword": "florescer",
+                    "isChanged": true
+                }
+            ],
+            "algorithmType": "LNG_PR",
+            "algorithmMap": {
+                "LNG_FR": "Portugese"
+            },
+            "combinedKeyword": "florescer"
+        },
+
+        {
+            "keywords": [
+                {
+                    "keyword": "blume",
+                    "isChanged": true
+                }
+            ],
+            "algorithmType": "LNG_GR",
+            "algorithmMap": {
+                "LNG_FR": "German"
+            },
+            "combinedKeyword": "blume"
+        },
+
+        {
+            "keywords": [
+                {
+                    "keyword": "fleur",
+                    "isChanged": true
+                }
+            ],
+            "algorithmType": "LNG_FR",
+            "algorithmMap": {
+                "LNG_FR": "French"
+            },
+            "combinedKeyword": "fleur"
+        }
+    ],
+    "errors": null,
+    "errorCode": null
+}

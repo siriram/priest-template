@@ -1,4 +1,1 @@
-priest-template
-===============
-
-sass template
+# This is the readme for domain scope

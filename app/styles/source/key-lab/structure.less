@@ -1,0 +1,35 @@
+.body-keylab {
+  background-color: transparent;
+  width: 100%;
+  padding: (@panel-lg-padding) 0;
+  .center-block();
+}
+
+.well-keylab {
+  margin: 0;
+  padding: 0;
+}
+
+.main-content {
+  margin: 0 3px;
+  .keyword-content {
+    background-color: @scope-well-color;
+    border: 1px solid @scope-offwhite;
+    .center-block();
+    max-width: 979px;
+    position: relative;
+    .keylab {
+      cursor: pointer;
+      margin-top: 5px;
+      padding: 10px 0px 5px 20px;
+    }
+    .keylabsopen {
+      .openMenu(34px, -1px, 35px, 9px, @scope-offwhite, @scope-offwhite, @scope-offwhite, -33px,3px,3px);
+    }
+    .keylabsopenmenu {
+      .openMenu(55px, 1px, 37px, 21px, none, none, @body-bg, 0px,0px,0px);
+    }
+  }
+}
+
+

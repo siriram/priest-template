@@ -1,0 +1,59 @@
+//endings caa
+
+#category{
+  .fa{margin-left:10px; margin-top:5px; display:none;}
+}
+
+.dropdown-toggle{
+  min-width: 230px;
+  font-size: 11.9px;
+  color: @drop-down-color;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  background-color: @table-border-color;
+  border: 2px solid @table-border-color;
+  transition: color .25s ease-out,background-color .25s ease-out,border-color .25s ease-out;
+  position:relative;
+  &:active{
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  }
+  span.caret {
+    right: 10px;
+    top: 12px;
+    position:absolute;
+    border-top-color: @drop-down-color;
+  }
+}
+
+
+.dropdown-menu {
+  top: 60%;
+  left:0px;
+  font-size: @font-size-base;
+  li {
+    > a{
+      display: block;
+      padding: 3px 20px;
+      clear: both;
+      font-weight: normal;
+      line-height: 20px;
+      color: @gray-dark;
+      white-space: nowrap;
+    }
+    > a:hover{
+      color: @body-bg;
+      text-decoration: none;
+      background-color: @scope-blue;
+    }
+  }
+}
+
+.btn.disabled{
+  background-color: @body-bg;
+  border: solid 1px #D0D1D1;
+}
+#catListings{
+  overflow: hidden;
+  button{min-width: 100px;}
+}

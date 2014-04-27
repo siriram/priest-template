@@ -1,0 +1,210 @@
+//variables and bootstrap file
+@import "variables.less";
+@import "bootstrap.less";
+
+body{
+  background: url(../../images/container-bkgnd.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+//modal css
+
+.modal-body{
+  img{
+    width:100%;
+  }
+}
+
+.navbar-wrapper {
+  background-color: #ad1d28;
+  border-color: #911821;
+  .navbar-brand{
+    color:#fff;
+    padding:0;
+  }
+  .navbar-nav{
+    float:right;
+    @media (max-width: 991px) {
+      float:left;
+    }
+  }
+}
+.navbar-toggle{
+  border-color:#fff;
+  .icon-bar{
+    background-color: #fff;
+  }
+}
+.navbar-wrapper .navbar-nav > li > a{
+  color: #fff;
+  &.active{
+    background-color:#d92432;
+    cursor: none;
+  }
+  .fa{
+    padding-right:5px;
+    font-size: 20px;
+  }
+}
+.navbar-wrapper .navbar-nav > li > a:hover{
+  background-color:#d92432;
+}
+
+
+.carousel-caption{
+  p{
+    font-size:18px;
+  }
+  .btn{
+    background-color:#ad1d28;
+    border-color: #911821;
+  }
+}
+
+.footer-bkgnd{
+  height:300px;
+  padding: 20px 0;
+}
+  .content-well{
+    background: url(../../images/well-bkgnd.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border:none;
+    border-radius: 10px;
+    padding:0;
+    min-height:250px;
+    i{
+      font-weight: bold;
+      padding-bottom: 10px;
+    }
+    .main-content{
+      padding: 24px 14px;
+    }
+
+    &.bio{
+      overflow: hidden;
+      img{
+        border-radius:4px;
+        margin-right:20px;
+      }
+      h4{
+        font-size: 24px;
+        margin-top:0;
+        padding-left:10px;
+      }
+      h5{
+        font-size: 16px;
+        color:#ad1d28;
+        line-height:18px;
+        font-weight:bold;
+      }
+      p{
+        padding-left:10px;
+        color: #ad1d28;font-size: 16px;
+      }
+    }
+    h4,h2{
+      background-color: #ad1d28;
+      padding: 10px;
+      border-radius: 4px;
+      color: #fff;
+      font-size: 20px;
+      margin-top:0;
+    }
+    h2{
+      font-size: 24px;
+    }
+    p{
+      color: #ad1d28;font-size: 16px;
+    }
+    ul{
+      list-style: none;
+      padding-left:10px;
+      padding-right:10px;
+      li{
+        color: #ad1d28;
+        font-size: 16px;
+        padding: 10px 0;
+        border-bottom: 1px dashed #ad1d28;
+        .fa{
+          font-size: 24px;
+          padding-right:5px;
+        }
+        &:last-child{
+          border-bottom:none;
+        }
+        a{color: #ad1d28;font-size: 16px; font-weight:bold;
+          &:hover{
+            color:#d92432;
+          }
+        }
+      }
+    }
+}
+
+
+  //main content well
+
+.main-content-well{
+  background: url(../../images/well-bkgnd.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border:none;
+  margin-top:50px;
+  padding: 0px;
+
+  h2{
+    background-color: #ad1d28;
+    padding: 10px;
+    border-radius: 4px;
+    padding:10px;
+    color:#fff;
+  }
+  ul{
+    padding:20px;
+  }
+}
+
+
+//modal css
+
+.modal{
+  .modal-header{
+    background-color: #ad1d28;
+    border:none;
+    color:#fff;
+     .close{
+       color:#fff;
+     }
+  }
+  .modal-body{
+    background: url(../../images/well-bkgnd.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    .controls{
+      color: #ad1d28;
+      font-size: 15px;
+    }
+  }
+}
+
+
+
+  //helper css
+
+.top-buffer{
+  margin-top:50px;
+}
+
+
+@import "../../../app/bower_components/font-awesome/less/font-awesome.less";
+

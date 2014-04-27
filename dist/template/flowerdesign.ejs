@@ -1,0 +1,8 @@
+<ul class="col-lg-12">
+    <% for(var i=0; i<results.length; i++) {%>
+    <li class="list-inline col-lg-3 col-md-3 col-sm-6 com-xs-6 translate">
+        <i class="translationItalic i<%= i%>"><%= results[i].algorithmMap.LNG_FR %></i>
+        <button class="sub-button trans-subbtn <%= i%>"><%= results[i].keywords[0].keyword %></button>
+    </li>
+    <% } %>
+</ul>

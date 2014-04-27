@@ -1,0 +1,37 @@
+.idea{
+  .scope-button(@body-bg,@scope-btn-green,@scope-btn-green);
+
+}
+.more-ideas {
+  min-height: 250px;
+  max-width: 720px;
+  text-align: center;
+  color:@scope-ideas-color;
+  .center-block();
+  padding: @modal-inner-padding+10 0;
+  background-color: @body-bg;
+  border: none;
+  .border-radius();
+  h4{
+    font-family: museo-sans !important;
+    &.discover{font-size: 20px;font-weight:300;
+      strong{font-weight: 500;}
+    }
+    &.keylab-h4{font-weight:300 !important;font-size:16px !important;padding-bottom:10px; margin-bottom:0;
+      strong{font-weight:500;}
+    }
+  }
+  button{
+    font-size: 14px;
+    .border-radius(6px);
+    padding: 10px 15px;
+  }
+  p{
+    padding-left:10px;
+    padding-right: 10px;
+    font-size: 13px;
+    color: @scope-idea-p-color;
+    line-height: 16px;
+    font-weight: 300;
+  }
+}

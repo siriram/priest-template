@@ -1,0 +1,86 @@
+{
+    "result": {
+        "pageNumber": 1,
+        "pageSize": 5,
+        "pageCount": 364,
+        "suggestions": [{
+            "domainName": "GraphicDesignShop.net",
+            "attributes": {
+                "seven_day_score": "6.2",
+                "thirty_day_score": "4.8",
+                "sixty_day_score": "1.8"
+            }
+        }, {
+            "domainName": "MyDesignShop.net",
+            "attributes": {
+                "seven_day_score": "9.8",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.7"
+            }
+        }, {
+            "domainName": "HairDesignShop.net",
+            "attributes": {
+                "seven_day_score": "7.0",
+                "thirty_day_score": "6.4",
+                "sixty_day_score": "6.1"
+            }
+        }, {
+            "domainName": "LandscapeDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        }, {
+            "domainName": "GardenDesignShop.net",
+            "attributes": {
+                "seven_day_score": "9.9",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.5"
+            }
+        },{
+            "domainName": "NewDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        },{
+            "domainName": "FloralDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        },{
+            "domainName": "KitchenDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        },{
+            "domainName": "DesignShopPen.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        },{
+            "domainName": "HouseDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        },{
+            "domainName": "FreeDesignShop.net",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        }],
+        "totalRecords": 1817
+    }
+}

@@ -1,0 +1,15 @@
+<ul class="list-inline col-lg-10 col-md-10 col-sm-10">
+    <%//results = [];
+        if (results.length == 0) {%>
+        <li>No related words found for this keyword</li>
+    <%} else {%>
+
+
+        <% for(var i=0; i<results.length; i++) {%>
+            <li class='col-lg-2 col-md-2 col-sm-2 col-xs-4 articleArray'><a class='tip'><%= results[i].keywords[0].keyword %><span>Replace <strong>"<%= keywords %>"</strong> with <strong>"<%= results[i].keywords[0].keyword %>"</strong></span></a></li>
+        <% } %>
+
+    <% } %>
+</ul>
+
+

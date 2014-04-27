@@ -1,0 +1,55 @@
+{"keywords": "shop.net", "results": [
+    {
+        "keywords": [
+            {
+                "keyword": "compras",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_SP",
+        "algorithmMap": {
+            "LNG_FR": "Spanish"
+        },
+        "combinedKeyword": "compras"
+    },
+    {
+        "keywords": [
+            {
+                "keyword": "loja",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_PR",
+        "algorithmMap": {
+            "LNG_FR": "Portugese"
+        },
+        "combinedKeyword": "loja"
+    },
+
+    {
+        "keywords": [
+            {
+                "keyword": "laden",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_GR",
+        "algorithmMap": {
+            "LNG_FR": "German"
+        },
+        "combinedKeyword": "laden"
+    },
+    {
+        "keywords": [
+            {
+                "keyword": "boutique",
+                "isChanged": true
+            }
+        ],
+        "algorithmType": "LNG_FR",
+        "algorithmMap": {
+            "LNG_FR": "French"
+        },
+        "combinedKeyword": "boutique"
+    }
+], "errors": null, "errorCode": null}

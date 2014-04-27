@@ -1,0 +1,41 @@
+<div class="col-lg-12 col-md-12 col-sm-12"><p class="bottom-buffer">Explore and play with different categories of endings to generate trendy name suggestions.</p></div>
+
+<div class="container top-buffer">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12">
+            <p class="grey-color"><strong class="strong-keylab">1.</strong> <i>Select a beginning word:</i></p>
+                <div class="btn-toolbar radiobtns left-buffer-ending bottom-buffer" data-toggle="buttons-radio">
+                    <button type="button" name="radBtn"   value="flower" class="btn radBtn button">flower</button>
+                    <button type="button" name="radBtn" value="design" class="btn radBtn button">design</button>
+                    <button type="button" name="radBtn"  value="shop" class="btn radBtn button">shop</button>
+                </div>
+         </div>
+        <div class="col-lg-8 col-md-8 col-sm-8">
+            <p class="grey-color"><strong class="strong-keylab">2.</strong> <i>Choose endings:</i></p>
+            <div class="btn-group withSelected left-buffer-ending" name="category" id="category">
+                <a class="btn disabled dropdown-toggle" data-toggle="dropdown">
+                    SELECT ENDINGS...<span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu pull-left">
+                    <li><a id="popularSelected"  value="popular">Popular</a></li>
+                    <li><a id="merchantSelected"  value="cat1">Merchant</a></li>
+                    <li><a id="cropsSelected"  value="popular">Shops</a></li>
+                    <li><a id="shopsSelected"  value="cat1">Places</a></li>
+                </ul>
+                <span class="fa fa-spinner fa-spin fa-lg"></span>
+            </div>
+
+        </div>
+    </div>
+</div>
+        <p class="grey-color top-buffer"><strong class="strong-keylab">3.</strong> <i>Select creations to get domain suggestions:</i></p>
+        <div id="introText" class="text-center border-top-keylab">
+            <p class="top-buffer">Select a keyword and play with endings.</p>
+            <p>For example keyword "<strong>sunshine</strong>" + "<strong>ess</strong>" ending = <strong>sunshine's!</strong></p>
+        </div>
+        <div id="wordEndings">
+            <p id="changeendingtxt" class="search-txt border-top-keylab col-lg-12 text-center">Creations for: <span class="grey-color">"</span><span class="selectedBtn"></span><span class="grey-color">" + </span><span class="grey-color">"</span><span class="selectedEnding"></span><span class="grey-color">" endings =</span></p>
+            <div id="catListings" class="col-lg-12 text-center" ></div>
+        </div>
+
+<div id="endingSubmit" class="submitBtn col-lg-12 text-center border-top-keylab top-buffer">Show me domain name ideas for: <span class="strong-keylab selectedText"></span> <button class="btn submit" type="button" disabled="disabled">DISCOVER</button></div>

@@ -1,0 +1,24 @@
+#addTranslation {
+  min-height: 50px;
+}
+.trans .btn {
+  margin-bottom: 5px;
+}
+#addTranslation li,
+#catListings li {
+  text-align: center;
+}
+#addTranslation i,
+#catListings i {
+  display: block;
+  padding-bottom: 5px;
+  padding-right: 15px;
+}
+.trans .fa {
+  margin-left: 5px;
+  margin-top: 12px;
+  display: none;
+}
+#translationSubmit span {
+  display: none;
+}

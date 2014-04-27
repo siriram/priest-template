@@ -1,0 +1,44 @@
+{
+    "result": {
+        "pageNumber": 1,
+        "pageSize": 5,
+        "pageCount": 364,
+        "suggestions": [{
+            "domainName": "FlowerDesignShop.com",
+            "attributes": {
+                "seven_day_score": "6.2",
+                "thirty_day_score": "4.8",
+                "sixty_day_score": "1.8"
+            }
+        }, {
+            "domainName": "FlowerDesignShop.net",
+            "attributes": {
+                "seven_day_score": "9.8",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.7"
+            }
+        }, {
+            "domainName": "FlowerDesignOnline.net",
+            "attributes": {
+                "seven_day_score": "7.0",
+                "thirty_day_score": "6.4",
+                "sixty_day_score": "6.1"
+            }
+        }, {
+            "domainName": "TheFlowerDesignShop.com",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        }, {
+            "domainName": "MyFlowerDesignShop.com",
+            "attributes": {
+                "seven_day_score": "9.9",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.5"
+            }
+        }],
+        "totalRecords": 1817
+    }
+}

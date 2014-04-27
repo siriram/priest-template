@@ -1,0 +1,100 @@
+{
+    "result": {
+        "pageNumber": 1,
+        "pageSize": 5,
+        "pageCount": 364,
+        "suggestions": [{
+            "domainName": "FloweralityFlowerify.com",
+            "attributes": {
+                "seven_day_score": "6.2",
+                "thirty_day_score": "4.8",
+                "sixty_day_score": "1.8"
+            }
+        }, {
+            "domainName": "FloweralityFlowerify.net",
+            "attributes": {
+                "seven_day_score": "9.8",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.7"
+            }
+        }, {
+            "domainName": "TheFloweralityFlowerify.com",
+            "attributes": {
+                "seven_day_score": "7.0",
+                "thirty_day_score": "6.4",
+                "sixty_day_score": "6.1"
+            }
+        }, {
+            "domainName": "MyFloweralityFlowerify.com",
+            "attributes": {
+                "seven_day_score": "8.3",
+                "thirty_day_score": "8.0",
+                "sixty_day_score": "7.7"
+            }
+        }, {
+            "domainName": "FloweralityFlowerifyGroup.com",
+            "attributes": {
+                "seven_day_score": "9.9",
+                "thirty_day_score": "9.5",
+                "sixty_day_score": "9.5"
+            }
+        },
+            {
+                "domainName": "TheFloweralityFlowerify.net",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "MyFloweralityFlowerify.net",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "NewFloweralityFlowerify.com",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "FloweralityFlowerifyGroup.net",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "FloweralityFlowerifyInc.com",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "NewFloweralityFlowerify.net",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            },
+            {
+                "domainName": "FloweralityFlowerifyInc.net",
+                "attributes": {
+                    "seven_day_score": "9.9",
+                    "thirty_day_score": "9.5",
+                    "sixty_day_score": "9.5"
+                }
+            }],
+        "totalRecords": 1817
+    }
+}

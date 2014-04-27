@@ -1,0 +1,27 @@
+.panel-body-keylab {
+  min-height: 300px;
+  padding: 20px 30px 15px 30px;
+}
+.panel-body-keylab#related-articles {
+  padding: 20px 0 0 0;
+  margin: 0;
+}
+.panel-body-keylab#related-articles p {
+  padding-left: 100px !important;
+}
+.panel-body-keylab#related-articles .border-top-keylab {
+  margin: 0 20px 0 20px;
+}
+.panel-body-keylab.panel-small {
+  min-height: 150px;
+}
+.panel-body-keylab ul {
+  margin: 0;
+  padding: 0;
+}
+.panel-body-keylab ul li {
+  padding: 5 0;
+}
+.panel-body-keylab ul li.articleArray {
+  padding: 0 0;
+}
